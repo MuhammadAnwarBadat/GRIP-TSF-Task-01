@@ -49,7 +49,3 @@ The model is used to predict scores based on a custom input (e.g., hours = 9.25)
 ## Conclusion
 
 This project showcases a simple example of supervised machine learning, where a linear regression model is used to predict student scores based on the number of hours they studied. It provides an understanding of data preprocessing, model training, evaluation, and prediction. You can further explore and modify the code to apply similar techniques to other regression problems.
-
-```
-
-You can create a README.md file in your GitHub repository and paste this content to provide a clear explanation of your project and how to use it.
